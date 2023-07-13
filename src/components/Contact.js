@@ -237,7 +237,7 @@ const form = useRef(null);
               style={{ marginLeft: "auto", marginRight: "auto" }}
             >
               <h3 style={{ marginBottom: "25px", marginTop: "10vh" }}>
-                Connect with me
+                Let's Connect
               </h3>
               <div className="social-icon">
                 <a href="#"> 
